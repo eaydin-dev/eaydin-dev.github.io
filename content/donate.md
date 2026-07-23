@@ -1,3 +1,8 @@
+---
+title: "Donate"
+description: "Support Eyup Aydin through Kreosus."
+---
+
 <div id="kreosus" data-id="4255" data-start-page="0" data-bg-color="ffffff" data-iframe-api="true"></div>
 <script>
   (function (d, s, id) {
