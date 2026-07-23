@@ -1,13 +1,12 @@
 ---
 title: About
 description: Hi, I am Eyup!
-menu: main
-weight: -210
+slug: about
 ---
 
 You can reach me via email at `ea[at]eaydin.net`
 
-You can also get my CV in PDF format <a href="/Eyup_Aydin_CV_latest.pdf" target="_blank">here.<a/>
+You can also get my CV in PDF format <a href="/Eyup_Aydin_CV_latest.pdf" target="_blank" rel="noopener">here.</a>
 
 <img src="/images/me.JPG" alt="EA" width="250"/>
 
