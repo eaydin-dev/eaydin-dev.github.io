@@ -11,6 +11,7 @@ disableKinds = ["RSS", "taxonomy", "term"]
   fullWidthTheme = false
   centerTheme = true
   autoCover = true
+  readMore = "Read more"
 
 [params.logo]
   logoText = "Eyup Aydin"
