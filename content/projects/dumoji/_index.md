@@ -17,6 +17,6 @@ The first chapters are free. One optional, non-consumable in-app purchase unlock
 the rest of the campaign. There are no ads, subscriptions, accounts, or paid
 hints.
 
-[Read the Privacy Policy](/privacy-policy/) · [Read the Terms of Service](/terms-of-service/)
+[Read the Privacy Policy](privacy-policy/) · [Read the Terms of Service](terms-of-service/)
 
 [View Dumoji on GitHub](https://github.com/eaydin-dev/dumoji)

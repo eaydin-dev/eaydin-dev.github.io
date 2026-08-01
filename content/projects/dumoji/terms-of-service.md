@@ -2,6 +2,8 @@
 title: "Dumoji Terms of Service"
 description: "Terms for using Dumoji."
 date: 2026-08-01
+aliases:
+  - /terms-of-service/
 ---
 
 **Effective date: August 1, 2026**
