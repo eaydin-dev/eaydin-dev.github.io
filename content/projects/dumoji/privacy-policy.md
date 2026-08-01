@@ -3,8 +3,6 @@ title: "Privacy Policy"
 description: "Privacy information for Dumoji."
 slug: privacy-policy
 date: 2026-08-01
-aliases:
-  - /privacy-policy/
 ---
 
 **Effective date: August 1, 2026**
