@@ -58,3 +58,5 @@ questions, contact [ea@eaydin.net](mailto:ea@eaydin.net).
 This page describes the current Dumoji implementation. It is not a promise that
 Apple's own services collect no information; Apple's policies govern those
 services separately.
+
+[Türkçe sürüm](/tr/projects/dumoji/privacy-policy/)

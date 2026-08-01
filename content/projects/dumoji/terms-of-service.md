@@ -71,3 +71,5 @@ beneficiaries of these Terms and may enforce them against you where applicable.
 The developer may update these Terms when the App or its services change. The
 updated version will be posted on this page with a new effective date. Questions
 about these Terms can be sent to [ea@eaydin.net](mailto:ea@eaydin.net).
+
+[Türkçe sürüm](/tr/projects/dumoji/terms-of-service/)
